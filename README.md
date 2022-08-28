@@ -5,4 +5,4 @@
 - 📚 At moment I'm studying Petroleum Engineering at UFES.
 - 🤓 I'm looking for opportunities to learn other languages and improve my knowledge.
 - 📫 How to reach me: rafaela.o.ribeiro@hotmail.com
-- 😄 Pronouns: she/her.
+
