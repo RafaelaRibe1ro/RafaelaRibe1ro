@@ -1,7 +1,7 @@
 ### Hi!! I'm Rafaela Ribeiro <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 
-- 🌱 I’m currently learning C, PHP, HTML/CSS and Laravel.
+- 🌱 I’m currently learning C, PHP, HTML/CSS
 - 📚 At moment I'm studying Petroleum Engineering at UFES.
 - 🤓 I'm looking for opportunities to learn other languages and improve my knowledge.
 
