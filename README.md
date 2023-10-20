@@ -1,10 +1,6 @@
 ### Hi!! I'm Rafaela Ribeiro <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 
-- 🌱 I’m currently learning JavaScript, PHP, HTML/CSS
-- 📚 At moment I'm studying Petroleum Engineering at UFES.
-- 🤓 I'm looking for opportunities to improve my knowledge.
-
 <a href="https://github.com/rafaelaribe1ro"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelaribe1ro&hide=html&layout=compact&theme=dracula" alt="Card Star" align="center" width="400px" min-width="300px"></a>
 
 ## Connect with me  
