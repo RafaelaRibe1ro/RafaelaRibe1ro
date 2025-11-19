@@ -1,7 +1,7 @@
 <h2 align="left">Olá! Eu sou a Rafaela Ribeiro 👩‍💻</h2>
 
 <p align="left">
-Sou estudante de <strong>Engenharia de Software</strong> na PUC Minas, apaixonada por desenvolvimento web, testes de software e sistemas bem estruturados. Busco desafios que me façam crescer como dev e como pessoa. 🚀  
+Sou estudante de <strong>Engenharia de Software</strong>, apaixonada por desenvolvimento web, testes de software e sistemas bem estruturados. Busco desafios que me façam crescer como dev e como pessoa. 🚀  
 Atualmente, foco meus estudos em <strong>Java, PHP</strong> e <strong>Laravel</strong>.
 </p>
 
