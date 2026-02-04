@@ -12,15 +12,6 @@ I'm a Software <strong>Engineering student</strong>, passionate about web develo
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-<!--   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafaelaribe1ro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelaribe1ro&layout=compact&theme=dracula"/>
-</div>
-
----
-
 ### 🌐 Contact me
 
 <div align="left">
